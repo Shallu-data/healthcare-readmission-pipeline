@@ -55,8 +55,8 @@ Observed readmission rates rise steadily with the score, and the High segment is
 
 ## Dashboard
 
-![Overview](images/dashboard_page1.png)
-![Risk segments](images/dashboard_page2.png)
+![Overview](images/Overview.png)
+![Risk segments](images/Risk_segments.png)
 
 ## Tech stack
 
